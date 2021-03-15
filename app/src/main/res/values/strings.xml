@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PracticeActvity</string>
+    <string name="login_uName">Username: </string>
+    <string name="login_psswrd">Password: </string>
 </resources>
